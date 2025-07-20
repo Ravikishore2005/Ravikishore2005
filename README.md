@@ -8,7 +8,7 @@
 - 🎓 I'm a final-year **Electronics and Communication Engineering** student at **Velammal Engineering College**
 - 💻 I’m passionate about **Web Development, Data Structures and Algorithms, Artificial Intelligence and Coding**
 - 🔭 Currently building: **Netflix Clone** using Frontend Technologies  
-- 🌱 Learning **Machine and Deep Learning**
+- 🌱 Learning **Machine,Deep Learning and Backend Technologies**
 - 📫 Reach me at: `ravikishore.0603@gmail.com`
 - ⚡ Fun fact: I love clean UI and debugging complex problems
 
