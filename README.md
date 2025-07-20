@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Kishore Srinivasalu</h1>
 <h3 align="center">ECE Student | Aspiring Software Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
