@@ -1,4 +1,4 @@
-<h1 align="center">Ravi Kishore Srinivasalu</h1>
+<h1 align="center">Ravi Kishore S</h1>
 <h3 align="center">ECE Student | Aspiring Software Developer | Problem Solver</h3>
 
 ---
@@ -30,14 +30,12 @@
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ravikishore2005&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravikishore2005&theme=react&border_radius=10" alt="Streak Stats" width="48%" /> </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ravikishore2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravikishore2005&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Streak Stats" /> </p>
 ---
 
 ### 🔗 Let's Connect
 
-<p align="left"> <a href="https://www.linkedin.com/in/ravikishore-s-6989612b7" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ravikishore.0603@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Ravikishore2005"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
+<p align="center"> <a href="https://www.linkedin.com/in/ravikishore-s-6989612b7" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:ravikishore.0603@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://github.com/Ravikishore2005"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
 ---
 
-<p align="center"> <img src="https://img.shields.io/badge/Available%20for%20hire-success?style=for-the-badge&logo=freelancer&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/💼%20Available%20for%20Hire-00C853?style=for-the-badge&logo=freelancer&logoColor=white" alt="Available for Hire" /> </p>
