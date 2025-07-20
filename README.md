@@ -10,7 +10,7 @@
 - 🔭 Currently building: **Netflix Clone** using Frontend Technologies  
 - 🌱 Learning **Machine,Deep Learning and Backend Technology**
 - 📫 Reach me at: `ravikishore.0603@gmail.com`
-- ⚡ Fun fact: I love clean UI and debugging complex problems
+- ⚡ Fun fact: I love clean UI and debugging complex problems.
 
 ---
 
