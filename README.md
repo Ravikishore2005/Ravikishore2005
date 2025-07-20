@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Kishore Srinivasalu</h1>
+<h1 align="center">Ravi Kishore Srinivasalu</h1>
 <h3 align="center">ECE Student | Aspiring Software Developer | Problem Solver</h3>
 
 ---
