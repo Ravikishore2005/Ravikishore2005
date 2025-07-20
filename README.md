@@ -6,10 +6,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a final-year **Electronics and Communication Engineering** student at **Velammal Engineering College**
-- 💻 I’m passionate about **Web Development, Data Structures, and Embedded Systems**
-- 🔭 Currently building: **Amazon Clone** using HTML and CSS  
-- 🌱 Learning **Bootstrap** and **JavaScript**
-- 📫 Reach me at: `ravikishoresrinivasalu@example.com`
+- 💻 I’m passionate about **Web Development, Data Structures and Algorithms, Artificial Intelligence and Coding**
+- 🔭 Currently building: **Netflix Clone** using Frontend Technologies  
+- 🌱 Learning **Machine and Deep Learning**
+- 📫 Reach me at: `ravikishore.0603@gmail.com`
 - ⚡ Fun fact: I love clean UI and debugging complex problems
 
 ---
