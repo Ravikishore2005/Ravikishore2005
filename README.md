@@ -31,9 +31,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravikishore2005&show_icons=true&theme=react" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravikishore2005&theme=react" alt="Streak Stats" />
 </p>
 
 ---
