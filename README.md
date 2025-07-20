@@ -41,13 +41,13 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="www.linkedin.com/in/ravikishore-s-6989612b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ravikishoresrinivasalu@example.com">
+  <a href="mailto:ravikishore.0603@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Ravikishore2005">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
