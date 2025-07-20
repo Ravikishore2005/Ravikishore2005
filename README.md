@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravi Kishore Srinivasalu</h1>
+<h3 align="center">ECE Student | Aspiring Software Developer | Problem Solver</h3>
 
-<!--
-**Ravikishore2005/Ravikishore2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 I'm a final-year **Electronics and Communication Engineering** student at **Velammal Engineering College**
+- 💻 I’m passionate about **Web Development, Data Structures, and Embedded Systems**
+- 🔭 Currently building: **Amazon Clone** using HTML and CSS  
+- 🌱 Learning **Bootstrap** and **JavaScript**
+- 📫 Reach me at: `ravikishoresrinivasalu@example.com`
+- ⚡ Fun fact: I love clean UI and debugging complex problems
+
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-276DC3?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" alt="Streak Stats" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ravikishoresrinivasalu@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for%20hire-green?style=flat" />
+</p>
