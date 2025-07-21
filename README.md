@@ -32,9 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravikishore2005&show_icons=true&theme=react&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravikishore2005&theme=react&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravikishore2005&theme=react&hide_border=true&border_radius=10&v=1" />
-
+<img src="https://streak-stats.demolab.com?user=Ravikishore2005&theme=react&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
